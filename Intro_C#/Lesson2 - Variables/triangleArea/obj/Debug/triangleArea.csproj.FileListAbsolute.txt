@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\triangleArea\bin\Debug\triangleArea.exe.config
-C:\SoftUni C#\Leson2 - Variables\triangleArea\bin\Debug\triangleArea.exe
-C:\SoftUni C#\Leson2 - Variables\triangleArea\bin\Debug\triangleArea.pdb
-C:\SoftUni C#\Leson2 - Variables\triangleArea\obj\Debug\triangleArea.exe
-C:\SoftUni C#\Leson2 - Variables\triangleArea\obj\Debug\triangleArea.pdb

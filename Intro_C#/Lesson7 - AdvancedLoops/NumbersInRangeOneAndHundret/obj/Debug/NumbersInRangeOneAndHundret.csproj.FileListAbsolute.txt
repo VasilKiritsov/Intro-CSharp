@@ -1,5 +1,0 @@
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersInRangeOneAndHundret\bin\Debug\NumbersInRangeOneAndHundret.exe.config
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersInRangeOneAndHundret\bin\Debug\NumbersInRangeOneAndHundret.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersInRangeOneAndHundret\bin\Debug\NumbersInRangeOneAndHundret.pdb
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersInRangeOneAndHundret\obj\Debug\NumbersInRangeOneAndHundret.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersInRangeOneAndHundret\obj\Debug\NumbersInRangeOneAndHundret.pdb

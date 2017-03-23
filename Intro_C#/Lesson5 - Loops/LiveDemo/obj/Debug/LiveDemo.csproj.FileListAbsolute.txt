@@ -1,7 +1,0 @@
-C:\SoftUni C#\Leson5 - Loops\LiveDemo\bin\Debug\LiveDemo.exe.config
-C:\SoftUni C#\Lesson5 - Loops\LiveDemo\bin\Debug\LiveDemo.exe.config
-C:\SoftUni C#\Lesson5 - Loops\LiveDemo\bin\Debug\LiveDemo.exe
-C:\SoftUni C#\Lesson5 - Loops\LiveDemo\bin\Debug\LiveDemo.pdb
-C:\SoftUni C#\Lesson5 - Loops\LiveDemo\obj\Debug\LiveDemo.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson5 - Loops\LiveDemo\obj\Debug\LiveDemo.exe
-C:\SoftUni C#\Lesson5 - Loops\LiveDemo\obj\Debug\LiveDemo.pdb

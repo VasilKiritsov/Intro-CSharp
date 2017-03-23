@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson4 - Conditional Statements\pointInRectangle\bin\Debug\pointInRectangle.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\pointInRectangle\bin\Debug\pointInRectangle.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\pointInRectangle\bin\Debug\pointInRectangle.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\pointInRectangle\obj\Debug\pointInRectangle.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\pointInRectangle\obj\Debug\pointInRectangle.pdb

@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\celsiusToFahrenheit\bin\Debug\celsiusToFahrenheit.exe.config
-C:\SoftUni C#\Leson2 - Variables\celsiusToFahrenheit\bin\Debug\celsiusToFahrenheit.exe
-C:\SoftUni C#\Leson2 - Variables\celsiusToFahrenheit\bin\Debug\celsiusToFahrenheit.pdb
-C:\SoftUni C#\Leson2 - Variables\celsiusToFahrenheit\obj\Debug\celsiusToFahrenheit.exe
-C:\SoftUni C#\Leson2 - Variables\celsiusToFahrenheit\obj\Debug\celsiusToFahrenheit.pdb

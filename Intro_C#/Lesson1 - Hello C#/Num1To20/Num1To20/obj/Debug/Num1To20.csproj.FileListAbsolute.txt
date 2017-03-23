@@ -1,6 +1,0 @@
-C:\SoftUni C#\Num1To20\Num1To20\bin\Debug\Num1To20.exe.config
-C:\SoftUni C#\Num1To20\Num1To20\bin\Debug\Num1To20.exe
-C:\SoftUni C#\Num1To20\Num1To20\bin\Debug\Num1To20.pdb
-C:\SoftUni C#\Num1To20\Num1To20\obj\Debug\Num1To20.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Num1To20\Num1To20\obj\Debug\Num1To20.exe
-C:\SoftUni C#\Num1To20\Num1To20\obj\Debug\Num1To20.pdb

@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Sunglasses\bin\Debug\Sunglasses.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Sunglasses\bin\Debug\Sunglasses.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Sunglasses\obj\Debug\Sunglasses.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Sunglasses\obj\Debug\Sunglasses.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache

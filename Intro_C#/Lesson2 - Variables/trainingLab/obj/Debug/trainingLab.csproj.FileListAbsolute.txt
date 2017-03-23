@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\trainingLab\bin\Debug\trainingLab.exe.config
-C:\SoftUni C#\Leson2 - Variables\trainingLab\bin\Debug\trainingLab.exe
-C:\SoftUni C#\Leson2 - Variables\trainingLab\bin\Debug\trainingLab.pdb
-C:\SoftUni C#\Leson2 - Variables\trainingLab\obj\Debug\trainingLab.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson2 - Variables\trainingLab\obj\Debug\trainingLab.exe
-C:\SoftUni C#\Leson2 - Variables\trainingLab\obj\Debug\trainingLab.pdb

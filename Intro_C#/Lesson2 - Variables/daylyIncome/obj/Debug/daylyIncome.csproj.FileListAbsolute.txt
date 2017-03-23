@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\daylyIncome\bin\Debug\daylyIncome.exe.config
-C:\SoftUni C#\Leson2 - Variables\daylyIncome\bin\Debug\daylyIncome.exe
-C:\SoftUni C#\Leson2 - Variables\daylyIncome\bin\Debug\daylyIncome.pdb
-C:\SoftUni C#\Leson2 - Variables\daylyIncome\obj\Debug\daylyIncome.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson2 - Variables\daylyIncome\obj\Debug\daylyIncome.exe
-C:\SoftUni C#\Leson2 - Variables\daylyIncome\obj\Debug\daylyIncome.pdb

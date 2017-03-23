@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\RoadSignStop\bin\Debug\RoadSignStop.exe.config
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\RoadSignStop\bin\Debug\RoadSignStop.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\RoadSignStop\bin\Debug\RoadSignStop.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\RoadSignStop\obj\Debug\RoadSignStop.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\RoadSignStop\obj\Debug\RoadSignStop.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\RoadSignStop\obj\Debug\RoadSignStop.pdb

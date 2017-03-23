@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson3 - ConditionalStatements\metricConvertor\bin\Debug\metricConvertor.exe.config
-C:\SoftUni C#\Leson3 - ConditionalStatements\metricConvertor\bin\Debug\metricConvertor.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\metricConvertor\bin\Debug\metricConvertor.pdb
-C:\SoftUni C#\Leson3 - ConditionalStatements\metricConvertor\obj\Debug\metricConvertor.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson3 - ConditionalStatements\metricConvertor\obj\Debug\metricConvertor.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\metricConvertor\obj\Debug\metricConvertor.pdb

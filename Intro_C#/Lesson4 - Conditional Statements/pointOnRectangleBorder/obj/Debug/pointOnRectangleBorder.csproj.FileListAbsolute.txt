@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson4 - Conditional Statements\pointOnRectangleBorder\bin\Debug\pointOnRectangleBorder.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\pointOnRectangleBorder\bin\Debug\pointOnRectangleBorder.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\pointOnRectangleBorder\bin\Debug\pointOnRectangleBorder.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\pointOnRectangleBorder\obj\Debug\pointOnRectangleBorder.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson4 - Conditional Statements\pointOnRectangleBorder\obj\Debug\pointOnRectangleBorder.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\pointOnRectangleBorder\obj\Debug\pointOnRectangleBorder.pdb

@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson8 - ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
-C:\SoftUni C#\Lesson8 - ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
-C:\SoftUni C#\Lesson8 - ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
-C:\SoftUni C#\Lesson8 - ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson8 - ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
-C:\SoftUni C#\Lesson8 - ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

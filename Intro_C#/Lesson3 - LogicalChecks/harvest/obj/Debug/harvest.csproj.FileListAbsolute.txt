@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson3 - ConditionalStatements\harvest\bin\Debug\harvest.exe.config
-C:\SoftUni C#\Leson3 - ConditionalStatements\harvest\bin\Debug\harvest.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\harvest\bin\Debug\harvest.pdb
-C:\SoftUni C#\Leson3 - ConditionalStatements\harvest\obj\Debug\harvest.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\harvest\obj\Debug\harvest.pdb

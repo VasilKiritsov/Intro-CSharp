@@ -1,7 +1,0 @@
-C:\SoftUni C#\Leson 4 - Conditional Statements\liveStream\bin\Debug\liveStream.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\liveStream\bin\Debug\liveStream.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\liveStream\bin\Debug\liveStream.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\liveStream\bin\Debug\liveStream.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\liveStream\obj\Debug\liveStream.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson4 - Conditional Statements\liveStream\obj\Debug\liveStream.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\liveStream\obj\Debug\liveStream.pdb

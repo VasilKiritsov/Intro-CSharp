@@ -1,5 +1,0 @@
-C:\SoftUni C#\Lesson7 - AdvancedLoops\FactorialCalculating\bin\Debug\FactorialCalculating.exe.config
-C:\SoftUni C#\Lesson7 - AdvancedLoops\FactorialCalculating\bin\Debug\FactorialCalculating.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\FactorialCalculating\bin\Debug\FactorialCalculating.pdb
-C:\SoftUni C#\Lesson7 - AdvancedLoops\FactorialCalculating\obj\Debug\FactorialCalculating.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\FactorialCalculating\obj\Debug\FactorialCalculating.pdb

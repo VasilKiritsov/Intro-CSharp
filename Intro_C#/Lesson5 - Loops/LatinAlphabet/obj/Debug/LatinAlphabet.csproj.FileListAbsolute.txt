@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\LatinAlphabet\bin\Debug\LatinAlphabet.exe.config
-C:\SoftUni C#\Lesson5 - Loops\LatinAlphabet\bin\Debug\LatinAlphabet.exe
-C:\SoftUni C#\Lesson5 - Loops\LatinAlphabet\bin\Debug\LatinAlphabet.pdb
-C:\SoftUni C#\Lesson5 - Loops\LatinAlphabet\obj\Debug\LatinAlphabet.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson5 - Loops\LatinAlphabet\obj\Debug\LatinAlphabet.exe
-C:\SoftUni C#\Lesson5 - Loops\LatinAlphabet\obj\Debug\LatinAlphabet.pdb

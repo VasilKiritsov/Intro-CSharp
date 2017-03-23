@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson3 - ConditionalStatements\threeEqualNumbers\bin\Debug\threeEqualNumbers.exe.config
-C:\SoftUni C#\Leson3 - ConditionalStatements\threeEqualNumbers\bin\Debug\threeEqualNumbers.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\threeEqualNumbers\bin\Debug\threeEqualNumbers.pdb
-C:\SoftUni C#\Leson3 - ConditionalStatements\threeEqualNumbers\obj\Debug\threeEqualNumbers.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\threeEqualNumbers\obj\Debug\threeEqualNumbers.pdb

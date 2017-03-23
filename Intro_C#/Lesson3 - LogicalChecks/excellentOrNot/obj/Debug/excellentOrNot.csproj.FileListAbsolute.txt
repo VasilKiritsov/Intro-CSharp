@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson3 - ConditionalStatements\excellentOrNot\bin\Debug\excellentOrNot.exe.config
-C:\SoftUni C#\Leson3 - ConditionalStatements\excellentOrNot\bin\Debug\excellentOrNot.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\excellentOrNot\bin\Debug\excellentOrNot.pdb
-C:\SoftUni C#\Leson3 - ConditionalStatements\excellentOrNot\obj\Debug\excellentOrNot.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\excellentOrNot\obj\Debug\excellentOrNot.pdb

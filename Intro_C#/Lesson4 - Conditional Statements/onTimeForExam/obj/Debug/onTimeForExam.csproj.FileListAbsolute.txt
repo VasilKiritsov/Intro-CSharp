@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson4 - Conditional Statements\onTimeForExam\bin\Debug\onTimeForExam.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\onTimeForExam\bin\Debug\onTimeForExam.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\onTimeForExam\bin\Debug\onTimeForExam.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\onTimeForExam\obj\Debug\onTimeForExam.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson4 - Conditional Statements\onTimeForExam\obj\Debug\onTimeForExam.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\onTimeForExam\obj\Debug\onTimeForExam.pdb

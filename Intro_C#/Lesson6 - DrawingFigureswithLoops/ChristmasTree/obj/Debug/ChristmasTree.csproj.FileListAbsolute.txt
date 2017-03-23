@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ChristmasTree\bin\Debug\ChristmasTree.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ChristmasTree\obj\Debug\ChristmasTree.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ChristmasTree\obj\Debug\ChristmasTree.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache

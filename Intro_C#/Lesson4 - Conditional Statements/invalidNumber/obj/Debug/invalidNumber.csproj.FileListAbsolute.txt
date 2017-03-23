@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson4 - Conditional Statements\invalidNumber\bin\Debug\invalidNumber.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\invalidNumber\bin\Debug\invalidNumber.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\invalidNumber\bin\Debug\invalidNumber.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\invalidNumber\obj\Debug\invalidNumber.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\invalidNumber\obj\Debug\invalidNumber.pdb

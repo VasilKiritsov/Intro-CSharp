@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\VowelsSum\bin\Debug\VowelsSum.exe.config
-C:\SoftUni C#\Lesson5 - Loops\VowelsSum\bin\Debug\VowelsSum.exe
-C:\SoftUni C#\Lesson5 - Loops\VowelsSum\bin\Debug\VowelsSum.pdb
-C:\SoftUni C#\Lesson5 - Loops\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson5 - Loops\VowelsSum\obj\Debug\VowelsSum.exe
-C:\SoftUni C#\Lesson5 - Loops\VowelsSum\obj\Debug\VowelsSum.pdb

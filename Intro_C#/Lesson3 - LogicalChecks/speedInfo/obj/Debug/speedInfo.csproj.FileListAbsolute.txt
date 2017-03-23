@@ -1,1 +1,0 @@
-C:\SoftUni C#\Leson3 - ConditionalStatements\speedInfo\bin\Debug\speedInfo.exe.config

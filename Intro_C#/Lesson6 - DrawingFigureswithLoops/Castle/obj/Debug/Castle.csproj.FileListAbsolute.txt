@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Castle\bin\Debug\Castle.exe.config
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Castle\obj\Debug\Castle.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Castle\bin\Debug\Castle.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Castle\bin\Debug\Castle.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Castle\obj\Debug\Castle.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Castle\obj\Debug\Castle.pdb

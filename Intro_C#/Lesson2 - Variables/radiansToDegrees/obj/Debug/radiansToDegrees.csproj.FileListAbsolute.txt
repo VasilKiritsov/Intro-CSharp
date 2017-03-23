@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\radiansToDegrees\bin\Debug\radiansToDegrees.exe.config
-C:\SoftUni C#\Leson2 - Variables\radiansToDegrees\bin\Debug\radiansToDegrees.exe
-C:\SoftUni C#\Leson2 - Variables\radiansToDegrees\bin\Debug\radiansToDegrees.pdb
-C:\SoftUni C#\Leson2 - Variables\radiansToDegrees\obj\Debug\radiansToDegrees.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson2 - Variables\radiansToDegrees\obj\Debug\radiansToDegrees.exe
-C:\SoftUni C#\Leson2 - Variables\radiansToDegrees\obj\Debug\radiansToDegrees.pdb

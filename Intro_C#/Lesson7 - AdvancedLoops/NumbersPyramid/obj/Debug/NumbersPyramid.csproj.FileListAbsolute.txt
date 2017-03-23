@@ -1,5 +1,0 @@
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersPyramid\bin\Debug\NumbersPyramid.exe.config
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersPyramid\bin\Debug\NumbersPyramid.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersPyramid\bin\Debug\NumbersPyramid.pdb
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersPyramid\obj\Debug\NumbersPyramid.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersPyramid\obj\Debug\NumbersPyramid.pdb

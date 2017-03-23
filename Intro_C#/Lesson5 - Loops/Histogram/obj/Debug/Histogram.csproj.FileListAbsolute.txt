@@ -1,5 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\Histogram\bin\Debug\Histogram.exe.config
-C:\SoftUni C#\Lesson5 - Loops\Histogram\bin\Debug\Histogram.exe
-C:\SoftUni C#\Lesson5 - Loops\Histogram\bin\Debug\Histogram.pdb
-C:\SoftUni C#\Lesson5 - Loops\Histogram\obj\Debug\Histogram.exe
-C:\SoftUni C#\Lesson5 - Loops\Histogram\obj\Debug\Histogram.pdb

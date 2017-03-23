@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\EqualPairs\bin\Debug\EqualPairs.exe.config
-C:\SoftUni C#\Lesson5 - Loops\EqualPairs\bin\Debug\EqualPairs.exe
-C:\SoftUni C#\Lesson5 - Loops\EqualPairs\bin\Debug\EqualPairs.pdb
-C:\SoftUni C#\Lesson5 - Loops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson5 - Loops\EqualPairs\obj\Debug\EqualPairs.exe
-C:\SoftUni C#\Lesson5 - Loops\EqualPairs\obj\Debug\EqualPairs.pdb

@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\money\bin\Debug\money.exe.config
-C:\SoftUni C#\Leson2 - Variables\money\bin\Debug\money.exe
-C:\SoftUni C#\Leson2 - Variables\money\bin\Debug\money.pdb
-C:\SoftUni C#\Leson2 - Variables\money\obj\Debug\money.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson2 - Variables\money\obj\Debug\money.exe
-C:\SoftUni C#\Leson2 - Variables\money\obj\Debug\money.pdb

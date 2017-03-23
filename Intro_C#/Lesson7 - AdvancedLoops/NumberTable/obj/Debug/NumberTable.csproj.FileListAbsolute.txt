@@ -1,5 +1,0 @@
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe.config
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumberTable\bin\Debug\NumberTable.pdb
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumberTable\obj\Debug\NumberTable.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\NumberTable\obj\Debug\NumberTable.pdb

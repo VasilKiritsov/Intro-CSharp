@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson7 - AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
-C:\SoftUni C#\Lesson7 - AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
-C:\SoftUni C#\Lesson7 - AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson7 - AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
-C:\SoftUni C#\Lesson7 - AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

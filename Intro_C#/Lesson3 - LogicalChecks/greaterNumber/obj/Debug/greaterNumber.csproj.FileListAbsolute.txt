@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson3 - ConditionalStatements\greaterNumber\bin\Debug\greaterNumber.exe.config
-C:\SoftUni C#\Leson3 - ConditionalStatements\greaterNumber\bin\Debug\greaterNumber.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\greaterNumber\bin\Debug\greaterNumber.pdb
-C:\SoftUni C#\Leson3 - ConditionalStatements\greaterNumber\obj\Debug\greaterNumber.exe
-C:\SoftUni C#\Leson3 - ConditionalStatements\greaterNumber\obj\Debug\greaterNumber.pdb

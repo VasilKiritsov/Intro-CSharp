@@ -1,5 +1,0 @@
-C:\SoftUni C#\triangleFace\triangleFace\bin\Debug\triangleFace.exe.config
-C:\SoftUni C#\triangleFace\triangleFace\bin\Debug\triangleFace.exe
-C:\SoftUni C#\triangleFace\triangleFace\bin\Debug\triangleFace.pdb
-C:\SoftUni C#\triangleFace\triangleFace\obj\Debug\triangleFace.exe
-C:\SoftUni C#\triangleFace\triangleFace\obj\Debug\triangleFace.pdb

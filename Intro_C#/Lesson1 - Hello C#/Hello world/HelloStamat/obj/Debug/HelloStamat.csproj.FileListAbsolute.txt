@@ -1,5 +1,0 @@
-C:\SoftUni C#\Hello world\HelloStamat\bin\Debug\HelloStamat.exe.config
-C:\SoftUni C#\Hello world\HelloStamat\bin\Debug\HelloStamat.exe
-C:\SoftUni C#\Hello world\HelloStamat\bin\Debug\HelloStamat.pdb
-C:\SoftUni C#\Hello world\HelloStamat\obj\Debug\HelloStamat.exe
-C:\SoftUni C#\Hello world\HelloStamat\obj\Debug\HelloStamat.pdb

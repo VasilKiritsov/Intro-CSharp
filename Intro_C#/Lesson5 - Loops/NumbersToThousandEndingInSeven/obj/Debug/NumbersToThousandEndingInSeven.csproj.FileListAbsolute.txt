@@ -1,1 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\NumbersToThousandEndingInSeven\bin\Debug\NumbersToThousandEndingInSeven.exe.config

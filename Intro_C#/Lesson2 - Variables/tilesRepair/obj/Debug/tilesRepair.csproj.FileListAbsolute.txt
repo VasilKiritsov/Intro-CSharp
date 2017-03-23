@@ -1,6 +1,0 @@
-C:\SoftUni C#\Leson2 - Variables\tilesRepair\bin\Debug\tilesRepair.exe.config
-C:\SoftUni C#\Leson2 - Variables\tilesRepair\bin\Debug\tilesRepair.exe
-C:\SoftUni C#\Leson2 - Variables\tilesRepair\bin\Debug\tilesRepair.pdb
-C:\SoftUni C#\Leson2 - Variables\tilesRepair\obj\Debug\tilesRepair.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Leson2 - Variables\tilesRepair\obj\Debug\tilesRepair.exe
-C:\SoftUni C#\Leson2 - Variables\tilesRepair\obj\Debug\tilesRepair.pdb

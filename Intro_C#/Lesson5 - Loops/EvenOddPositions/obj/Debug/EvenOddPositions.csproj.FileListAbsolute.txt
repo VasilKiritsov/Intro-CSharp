@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\EvenOddPositions\bin\Debug\EvenOddPositions.exe.config
-C:\SoftUni C#\Lesson5 - Loops\EvenOddPositions\bin\Debug\EvenOddPositions.exe
-C:\SoftUni C#\Lesson5 - Loops\EvenOddPositions\bin\Debug\EvenOddPositions.pdb
-C:\SoftUni C#\Lesson5 - Loops\EvenOddPositions\obj\Debug\EvenOddPositions.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson5 - Loops\EvenOddPositions\obj\Debug\EvenOddPositions.exe
-C:\SoftUni C#\Lesson5 - Loops\EvenOddPositions\obj\Debug\EvenOddPositions.pdb

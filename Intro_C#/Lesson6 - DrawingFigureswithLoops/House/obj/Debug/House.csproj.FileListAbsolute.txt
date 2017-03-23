@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\House\bin\Debug\House.exe.config
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\House\bin\Debug\House.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\House\bin\Debug\House.pdb
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\House\obj\Debug\House.exe
-C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\House\obj\Debug\House.pdb

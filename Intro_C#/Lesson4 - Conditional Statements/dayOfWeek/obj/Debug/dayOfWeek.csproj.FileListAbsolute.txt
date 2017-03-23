@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson4 - Conditional Statements\dayOfWeek\bin\Debug\dayOfWeek.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\dayOfWeek\bin\Debug\dayOfWeek.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\dayOfWeek\bin\Debug\dayOfWeek.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\dayOfWeek\obj\Debug\dayOfWeek.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\dayOfWeek\obj\Debug\dayOfWeek.pdb

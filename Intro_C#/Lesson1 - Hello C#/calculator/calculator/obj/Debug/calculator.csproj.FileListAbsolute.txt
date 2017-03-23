@@ -1,5 +1,0 @@
-C:\SoftUni C#\calculator\calculator\bin\Debug\calculator.exe.config
-C:\SoftUni C#\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\calculator\calculator\obj\Debug\calculator.Form1.resources
-C:\SoftUni C#\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
-C:\SoftUni C#\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache

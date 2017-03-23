@@ -1,5 +1,0 @@
-C:\SoftUni C#\starsTriangle\starsTriangle\bin\Debug\starsTriangle.exe.config
-C:\SoftUni C#\starsTriangle\starsTriangle\bin\Debug\starsTriangle.exe
-C:\SoftUni C#\starsTriangle\starsTriangle\bin\Debug\starsTriangle.pdb
-C:\SoftUni C#\starsTriangle\starsTriangle\obj\Debug\starsTriangle.exe
-C:\SoftUni C#\starsTriangle\starsTriangle\obj\Debug\starsTriangle.pdb

@@ -1,6 +1,0 @@
-C:\SoftUni C#\Lesson8 - ExamPreparation\Torch\bin\Debug\Torch.exe.config
-C:\SoftUni C#\Lesson8 - ExamPreparation\Torch\bin\Debug\Torch.exe
-C:\SoftUni C#\Lesson8 - ExamPreparation\Torch\bin\Debug\Torch.pdb
-C:\SoftUni C#\Lesson8 - ExamPreparation\Torch\obj\Debug\Torch.csprojResolveAssemblyReference.cache
-C:\SoftUni C#\Lesson8 - ExamPreparation\Torch\obj\Debug\Torch.exe
-C:\SoftUni C#\Lesson8 - ExamPreparation\Torch\obj\Debug\Torch.pdb

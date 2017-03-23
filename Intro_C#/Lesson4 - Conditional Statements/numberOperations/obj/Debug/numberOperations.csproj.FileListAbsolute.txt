@@ -1,5 +1,0 @@
-C:\SoftUni C#\Leson4 - Conditional Statements\numberOperations\bin\Debug\numberOperations.exe.config
-C:\SoftUni C#\Leson4 - Conditional Statements\numberOperations\bin\Debug\numberOperations.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\numberOperations\bin\Debug\numberOperations.pdb
-C:\SoftUni C#\Leson4 - Conditional Statements\numberOperations\obj\Debug\numberOperations.exe
-C:\SoftUni C#\Leson4 - Conditional Statements\numberOperations\obj\Debug\numberOperations.pdb

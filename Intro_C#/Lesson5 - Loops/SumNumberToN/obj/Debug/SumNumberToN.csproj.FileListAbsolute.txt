@@ -1,5 +1,0 @@
-C:\SoftUni C#\Lesson5 - Loops\SumNumberToN\bin\Debug\SumNumberToN.exe.config
-C:\SoftUni C#\Lesson5 - Loops\SumNumberToN\bin\Debug\SumNumberToN.exe
-C:\SoftUni C#\Lesson5 - Loops\SumNumberToN\bin\Debug\SumNumberToN.pdb
-C:\SoftUni C#\Lesson5 - Loops\SumNumberToN\obj\Debug\SumNumberToN.exe
-C:\SoftUni C#\Lesson5 - Loops\SumNumberToN\obj\Debug\SumNumberToN.pdb
