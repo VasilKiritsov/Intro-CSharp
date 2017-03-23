@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersNToOne\bin\Debug\NumbersNToOne.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersNToOne\bin\Debug\NumbersNToOne.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersNToOne\bin\Debug\NumbersNToOne.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersNToOne\obj\Debug\NumbersNToOne.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersNToOne\obj\Debug\NumbersNToOne.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\bonusScore\bin\Debug\bonusScore.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\bonusScore\bin\Debug\bonusScore.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\bonusScore\bin\Debug\bonusScore.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\bonusScore\obj\Debug\bonusScore.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\bonusScore\obj\Debug\bonusScore.pdb

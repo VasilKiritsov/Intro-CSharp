@@ -1,0 +1,2 @@
+C:\SoftUni C#\triangleFromStars\triangleFromStars\bin\Debug\triangleFromStars.exe.config
+C:\SoftUni C#\triangleFromStars\triangleFromStars\obj\Debug\triangleFromStars.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\evenOdd\bin\Debug\evenOdd.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\evenOdd\bin\Debug\evenOdd.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\evenOdd\bin\Debug\evenOdd.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\evenOdd\obj\Debug\evenOdd.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson3 - ConditionalStatements\evenOdd\obj\Debug\evenOdd.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\evenOdd\obj\Debug\evenOdd.pdb

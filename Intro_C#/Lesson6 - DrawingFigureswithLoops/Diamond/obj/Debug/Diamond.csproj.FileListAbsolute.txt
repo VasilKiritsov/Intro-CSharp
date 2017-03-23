@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Diamond\bin\Debug\Diamond.exe.config
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Diamond\bin\Debug\Diamond.exe
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Diamond\bin\Debug\Diamond.pdb
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Diamond\obj\Debug\Diamond.exe
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Diamond\obj\Debug\Diamond.pdb
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache

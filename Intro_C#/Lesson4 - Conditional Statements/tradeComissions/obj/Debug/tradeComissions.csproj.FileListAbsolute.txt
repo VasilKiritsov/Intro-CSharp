@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\tradeComissions\bin\Debug\tradeComissions.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\tradeComissions\bin\Debug\tradeComissions.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\tradeComissions\bin\Debug\tradeComissions.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\tradeComissions\obj\Debug\tradeComissions.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson4 - Conditional Statements\tradeComissions\obj\Debug\tradeComissions.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\tradeComissions\obj\Debug\tradeComissions.pdb

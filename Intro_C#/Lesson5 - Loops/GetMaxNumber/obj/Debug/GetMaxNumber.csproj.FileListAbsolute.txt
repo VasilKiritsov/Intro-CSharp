@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson5 - Loops\GetMaxNumber\bin\Debug\GetMaxNumber.exe.config
+C:\SoftUni C#\Lesson5 - Loops\GetMaxNumber\bin\Debug\GetMaxNumber.exe
+C:\SoftUni C#\Lesson5 - Loops\GetMaxNumber\bin\Debug\GetMaxNumber.pdb
+C:\SoftUni C#\Lesson5 - Loops\GetMaxNumber\obj\Debug\GetMaxNumber.exe
+C:\SoftUni C#\Lesson5 - Loops\GetMaxNumber\obj\Debug\GetMaxNumber.pdb

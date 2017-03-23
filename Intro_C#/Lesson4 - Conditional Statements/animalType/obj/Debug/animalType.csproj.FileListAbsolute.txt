@@ -1,0 +1,5 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\animalType\bin\Debug\animalType.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\animalType\bin\Debug\animalType.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\animalType\bin\Debug\animalType.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\animalType\obj\Debug\animalType.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\animalType\obj\Debug\animalType.pdb

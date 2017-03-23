@@ -1,0 +1,5 @@
+C:\SoftUni C#\Leson2 - Variables\usdToBgn\bin\Debug\usdToBgn.exe.config
+C:\SoftUni C#\Leson2 - Variables\usdToBgn\bin\Debug\usdToBgn.exe
+C:\SoftUni C#\Leson2 - Variables\usdToBgn\bin\Debug\usdToBgn.pdb
+C:\SoftUni C#\Leson2 - Variables\usdToBgn\obj\Debug\usdToBgn.exe
+C:\SoftUni C#\Leson2 - Variables\usdToBgn\obj\Debug\usdToBgn.pdb

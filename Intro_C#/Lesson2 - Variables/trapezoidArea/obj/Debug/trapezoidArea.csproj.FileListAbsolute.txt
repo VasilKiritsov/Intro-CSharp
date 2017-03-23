@@ -1,0 +1,5 @@
+C:\SoftUni C#\Solution1\trapezoidArea\bin\Debug\trapezoidArea.exe.config
+C:\SoftUni C#\Solution1\trapezoidArea\bin\Debug\trapezoidArea.exe
+C:\SoftUni C#\Solution1\trapezoidArea\bin\Debug\trapezoidArea.pdb
+C:\SoftUni C#\Solution1\trapezoidArea\obj\Debug\trapezoidArea.exe
+C:\SoftUni C#\Solution1\trapezoidArea\obj\Debug\trapezoidArea.pdb

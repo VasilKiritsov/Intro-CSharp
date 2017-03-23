@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Lesson7 - AdvancedLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.pdb

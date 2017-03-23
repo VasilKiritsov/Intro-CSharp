@@ -1,0 +1,3 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\exilentResult\bin\Debug\exilentResult.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\exilentResult\obj\Debug\exilentResult.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\exilentResult\obj\Debug\exilentResult.pdb

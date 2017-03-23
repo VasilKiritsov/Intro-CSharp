@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Lesson7 - AdvancedLoops\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

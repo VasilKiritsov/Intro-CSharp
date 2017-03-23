@@ -1,0 +1,5 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\sumSeconds\bin\Debug\sumSeconds.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\sumSeconds\bin\Debug\sumSeconds.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\sumSeconds\bin\Debug\sumSeconds.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\sumSeconds\obj\Debug\sumSeconds.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\sumSeconds\obj\Debug\sumSeconds.pdb

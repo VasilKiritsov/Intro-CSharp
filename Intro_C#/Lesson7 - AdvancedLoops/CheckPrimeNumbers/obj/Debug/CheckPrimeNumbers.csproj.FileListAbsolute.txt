@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\CheckPrimeNumbers\bin\Debug\CheckPrimeNumbers.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\CheckPrimeNumbers\bin\Debug\CheckPrimeNumbers.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\CheckPrimeNumbers\bin\Debug\CheckPrimeNumbers.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\CheckPrimeNumbers\obj\Debug\CheckPrimeNumbers.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Lesson7 - AdvancedLoops\CheckPrimeNumbers\obj\Debug\CheckPrimeNumbers.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\CheckPrimeNumbers\obj\Debug\CheckPrimeNumbers.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson5 - Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\SoftUni C#\Lesson5 - Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\SoftUni C#\Lesson5 - Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\SoftUni C#\Lesson5 - Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\SoftUni C#\Lesson5 - Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

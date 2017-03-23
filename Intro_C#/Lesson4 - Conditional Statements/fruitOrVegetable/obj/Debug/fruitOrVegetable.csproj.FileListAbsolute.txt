@@ -1,0 +1,1 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitOrVegetable\bin\Debug\fruitOrVegetable.exe.config

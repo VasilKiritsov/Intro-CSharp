@@ -1,0 +1,5 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\matchTickets\bin\Debug\matchTickets.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\matchTickets\bin\Debug\matchTickets.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\matchTickets\bin\Debug\matchTickets.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\matchTickets\obj\Debug\matchTickets.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\matchTickets\obj\Debug\matchTickets.pdb

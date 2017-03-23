@@ -1,0 +1,8 @@
+C:\SoftUni C#\Solution1\concatenateData\bin\Debug\concatenateData.exe.config
+C:\SoftUni C#\Solution1\concatenateData\bin\Debug\concatenateData.exe
+C:\SoftUni C#\Solution1\concatenateData\bin\Debug\concatenateData.pdb
+C:\SoftUni C#\Solution1\concatenateData\obj\Debug\concatenateData.exe
+C:\SoftUni C#\Solution1\concatenateData\obj\Debug\concatenateData.pdb
+C:\SoftUni C#\Leson2 - Variables\concatenateData\bin\Debug\concatenateData.exe.config
+C:\SoftUni C#\Leson2 - Variables\concatenateData\obj\Debug\concatenateData.exe
+C:\SoftUni C#\Leson2 - Variables\concatenateData\obj\Debug\concatenateData.pdb

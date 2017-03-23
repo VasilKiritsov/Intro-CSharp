@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson5 - Loops\ElementEqualToSumOfOthers\bin\Debug\ElementEqualToSumOfOthers.exe.config
+C:\SoftUni C#\Lesson5 - Loops\ElementEqualToSumOfOthers\bin\Debug\ElementEqualToSumOfOthers.exe
+C:\SoftUni C#\Lesson5 - Loops\ElementEqualToSumOfOthers\bin\Debug\ElementEqualToSumOfOthers.pdb
+C:\SoftUni C#\Lesson5 - Loops\ElementEqualToSumOfOthers\obj\Debug\ElementEqualToSumOfOthers.exe
+C:\SoftUni C#\Lesson5 - Loops\ElementEqualToSumOfOthers\obj\Debug\ElementEqualToSumOfOthers.pdb
+C:\SoftUni C#\Lesson5 - Loops\ElementEqualToSumOfOthers\obj\Debug\ElementEqualToSumOfOthers.csprojResolveAssemblyReference.cache

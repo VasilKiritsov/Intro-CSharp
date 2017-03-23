@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson2 - Variables\daysAfterBirth1000\bin\Debug\daysAfterBirth1000.exe.config
+C:\SoftUni C#\Leson2 - Variables\daysAfterBirth1000\obj\Debug\daysAfterBirth1000.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson2 - Variables\daysAfterBirth1000\bin\Debug\daysAfterBirth1000.exe
+C:\SoftUni C#\Leson2 - Variables\daysAfterBirth1000\bin\Debug\daysAfterBirth1000.pdb
+C:\SoftUni C#\Leson2 - Variables\daysAfterBirth1000\obj\Debug\daysAfterBirth1000.exe
+C:\SoftUni C#\Leson2 - Variables\daysAfterBirth1000\obj\Debug\daysAfterBirth1000.pdb

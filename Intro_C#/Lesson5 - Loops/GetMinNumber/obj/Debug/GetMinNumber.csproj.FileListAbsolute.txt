@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson5 - Loops\GetMinNumber\bin\Debug\GetMinNumber.exe.config
+C:\SoftUni C#\Lesson5 - Loops\GetMinNumber\bin\Debug\GetMinNumber.exe
+C:\SoftUni C#\Lesson5 - Loops\GetMinNumber\bin\Debug\GetMinNumber.pdb
+C:\SoftUni C#\Lesson5 - Loops\GetMinNumber\obj\Debug\GetMinNumber.exe
+C:\SoftUni C#\Lesson5 - Loops\GetMinNumber\obj\Debug\GetMinNumber.pdb

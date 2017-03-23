@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

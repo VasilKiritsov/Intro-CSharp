@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\ChekIfNumberIsEven\bin\Debug\ChekIfNumberIsEven.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\ChekIfNumberIsEven\bin\Debug\ChekIfNumberIsEven.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\ChekIfNumberIsEven\bin\Debug\ChekIfNumberIsEven.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\ChekIfNumberIsEven\obj\Debug\ChekIfNumberIsEven.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\ChekIfNumberIsEven\obj\Debug\ChekIfNumberIsEven.pdb

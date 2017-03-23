@@ -1,0 +1,8 @@
+C:\SoftUni C#\Solution1\inchesToCentimeters.cs\bin\Debug\inchesToCentimeters.cs.exe.config
+C:\SoftUni C#\Solution1\inchesToCentimeters.cs\bin\Debug\inchesToCentimeters.cs.exe
+C:\SoftUni C#\Solution1\inchesToCentimeters.cs\bin\Debug\inchesToCentimeters.cs.pdb
+C:\SoftUni C#\Solution1\inchesToCentimeters.cs\obj\Debug\inchesToCentimeters.cs.exe
+C:\SoftUni C#\Solution1\inchesToCentimeters.cs\obj\Debug\inchesToCentimeters.cs.pdb
+C:\SoftUni C#\Leson2 - Variables\inchesToCentimeters.cs\bin\Debug\inchesToCentimeters.cs.exe.config
+C:\SoftUni C#\Leson2 - Variables\inchesToCentimeters.cs\obj\Debug\inchesToCentimeters.cs.exe
+C:\SoftUni C#\Leson2 - Variables\inchesToCentimeters.cs\obj\Debug\inchesToCentimeters.cs.pdb

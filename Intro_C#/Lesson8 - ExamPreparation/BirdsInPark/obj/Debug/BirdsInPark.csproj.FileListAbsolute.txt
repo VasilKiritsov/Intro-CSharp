@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson8 - ExamPreparation\BirdsInPark\bin\Debug\BirdsInPark.exe.config
+C:\SoftUni C#\Lesson8 - ExamPreparation\BirdsInPark\bin\Debug\BirdsInPark.exe
+C:\SoftUni C#\Lesson8 - ExamPreparation\BirdsInPark\bin\Debug\BirdsInPark.pdb
+C:\SoftUni C#\Lesson8 - ExamPreparation\BirdsInPark\obj\Debug\BirdsInPark.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Lesson8 - ExamPreparation\BirdsInPark\obj\Debug\BirdsInPark.exe
+C:\SoftUni C#\Lesson8 - ExamPreparation\BirdsInPark\obj\Debug\BirdsInPark.pdb

@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersToNStepThree\bin\Debug\NumbersToNStepThree.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersToNStepThree\bin\Debug\NumbersToNStepThree.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersToNStepThree\bin\Debug\NumbersToNStepThree.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersToNStepThree\obj\Debug\NumbersToNStepThree.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersToNStepThree\obj\Debug\NumbersToNStepThree.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\NumbersToNStepThree\obj\Debug\NumbersToNStepThree.pdb

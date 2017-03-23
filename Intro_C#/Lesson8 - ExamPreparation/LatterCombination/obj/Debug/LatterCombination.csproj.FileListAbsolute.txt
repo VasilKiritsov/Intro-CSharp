@@ -1,0 +1,6 @@
+C:\SoftUni C#\Lesson8 - ExamPreparation\LatterCombination\bin\Debug\LatterCombination.exe.config
+C:\SoftUni C#\Lesson8 - ExamPreparation\LatterCombination\bin\Debug\LatterCombination.exe
+C:\SoftUni C#\Lesson8 - ExamPreparation\LatterCombination\bin\Debug\LatterCombination.pdb
+C:\SoftUni C#\Lesson8 - ExamPreparation\LatterCombination\obj\Debug\LatterCombination.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Lesson8 - ExamPreparation\LatterCombination\obj\Debug\LatterCombination.exe
+C:\SoftUni C#\Lesson8 - ExamPreparation\LatterCombination\obj\Debug\LatterCombination.pdb

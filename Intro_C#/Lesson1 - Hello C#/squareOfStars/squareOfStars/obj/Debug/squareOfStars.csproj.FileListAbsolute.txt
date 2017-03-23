@@ -1,0 +1,6 @@
+C:\SoftUni C#\squareOfStars\squareOfStars\bin\Debug\squareOfStars.exe.config
+C:\SoftUni C#\squareOfStars\squareOfStars\obj\Debug\squareOfStars.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\squareOfStars\squareOfStars\bin\Debug\squareOfStars.exe
+C:\SoftUni C#\squareOfStars\squareOfStars\bin\Debug\squareOfStars.pdb
+C:\SoftUni C#\squareOfStars\squareOfStars\obj\Debug\squareOfStars.exe
+C:\SoftUni C#\squareOfStars\squareOfStars\obj\Debug\squareOfStars.pdb

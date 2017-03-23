@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ButterFly\bin\Debug\ButterFly.exe.config
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ButterFly\bin\Debug\ButterFly.exe
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ButterFly\bin\Debug\ButterFly.pdb
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ButterFly\obj\Debug\ButterFly.exe
+C:\SoftUni C#\Lesson6 - DrawingFigureswithLoops\ButterFly\obj\Debug\ButterFly.pdb

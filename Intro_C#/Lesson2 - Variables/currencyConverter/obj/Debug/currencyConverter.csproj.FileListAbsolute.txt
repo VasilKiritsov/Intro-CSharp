@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson2 - Variables\currencyConverter\bin\Debug\currencyConverter.exe.config
+C:\SoftUni C#\Leson2 - Variables\currencyConverter\bin\Debug\currencyConverter.exe
+C:\SoftUni C#\Leson2 - Variables\currencyConverter\bin\Debug\currencyConverter.pdb
+C:\SoftUni C#\Leson2 - Variables\currencyConverter\obj\Debug\currencyConverter.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson2 - Variables\currencyConverter\obj\Debug\currencyConverter.exe
+C:\SoftUni C#\Leson2 - Variables\currencyConverter\obj\Debug\currencyConverter.pdb

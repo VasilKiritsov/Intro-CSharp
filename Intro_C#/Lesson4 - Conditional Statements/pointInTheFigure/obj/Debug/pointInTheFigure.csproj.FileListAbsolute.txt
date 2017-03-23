@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\pointInTheFigure\bin\Debug\pointInTheFigure.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\pointInTheFigure\bin\Debug\pointInTheFigure.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\pointInTheFigure\bin\Debug\pointInTheFigure.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\pointInTheFigure\obj\Debug\pointInTheFigure.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson4 - Conditional Statements\pointInTheFigure\obj\Debug\pointInTheFigure.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\pointInTheFigure\obj\Debug\pointInTheFigure.pdb

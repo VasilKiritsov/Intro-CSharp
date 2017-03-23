@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitShop\bin\Debug\fruitShop.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitShop\bin\Debug\fruitShop.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitShop\bin\Debug\fruitShop.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitShop\obj\Debug\fruitShop.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitShop\obj\Debug\fruitShop.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\fruitShop\obj\Debug\fruitShop.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni C#\Leasson6 - DrawingFigureswithLoops\Polinomi2\bin\Debug\Polinomi2.exe.config
+C:\SoftUni C#\Leasson6 - DrawingFigureswithLoops\Polinomi2\bin\Debug\Polinomi2.exe
+C:\SoftUni C#\Leasson6 - DrawingFigureswithLoops\Polinomi2\bin\Debug\Polinomi2.pdb
+C:\SoftUni C#\Leasson6 - DrawingFigureswithLoops\Polinomi2\obj\Debug\Polinomi2.exe
+C:\SoftUni C#\Leasson6 - DrawingFigureswithLoops\Polinomi2\obj\Debug\Polinomi2.pdb

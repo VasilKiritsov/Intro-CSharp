@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson5 - Loops\EvenOrOddSum\bin\Debug\EvenOrOddSum.exe.config
+C:\SoftUni C#\Lesson5 - Loops\EvenOrOddSum\bin\Debug\EvenOrOddSum.exe
+C:\SoftUni C#\Lesson5 - Loops\EvenOrOddSum\bin\Debug\EvenOrOddSum.pdb
+C:\SoftUni C#\Lesson5 - Loops\EvenOrOddSum\obj\Debug\EvenOrOddSum.exe
+C:\SoftUni C#\Lesson5 - Loops\EvenOrOddSum\obj\Debug\EvenOrOddSum.pdb

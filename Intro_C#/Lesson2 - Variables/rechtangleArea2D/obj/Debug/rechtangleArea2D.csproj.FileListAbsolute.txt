@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson2 - Variables\rechtangleArea2D\bin\Debug\rechtangleArea2D.exe.config
+C:\SoftUni C#\Leson2 - Variables\rechtangleArea2D\obj\Debug\rechtangleArea2D.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson2 - Variables\rechtangleArea2D\bin\Debug\rechtangleArea2D.exe
+C:\SoftUni C#\Leson2 - Variables\rechtangleArea2D\bin\Debug\rechtangleArea2D.pdb
+C:\SoftUni C#\Leson2 - Variables\rechtangleArea2D\obj\Debug\rechtangleArea2D.exe
+C:\SoftUni C#\Leson2 - Variables\rechtangleArea2D\obj\Debug\rechtangleArea2D.pdb

@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\transportPrice\bin\Debug\transportPrice.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\transportPrice\bin\Debug\transportPrice.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\transportPrice\bin\Debug\transportPrice.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\transportPrice\obj\Debug\transportPrice.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson3 - ConditionalStatements\transportPrice\obj\Debug\transportPrice.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\transportPrice\obj\Debug\transportPrice.pdb

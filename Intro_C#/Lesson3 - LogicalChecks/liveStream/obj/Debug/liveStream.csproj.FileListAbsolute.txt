@@ -1,0 +1,15 @@
+C:\SoftUni C#\Solution1\liveStream\bin\Debug\liveStream.exe.config
+C:\SoftUni C#\Solution1\liveStream\bin\Debug\liveStream.exe
+C:\SoftUni C#\Solution1\liveStream\bin\Debug\liveStream.pdb
+C:\SoftUni C#\Solution1\liveStream\obj\Debug\liveStream.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Solution1\liveStream\obj\Debug\liveStream.exe
+C:\SoftUni C#\Solution1\liveStream\obj\Debug\liveStream.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\liveStream\bin\Debug\liveStream.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\liveStream\obj\Debug\liveStream.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\liveStream\obj\Debug\liveStream.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\liveStream\bin\Debug\liveStream.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\liveStream\bin\Debug\liveStream.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\liveStream\obj\Debug\liveStream.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson3 - LogicalChecks\liveStream\bin\Debug\liveStream.exe.config
+C:\SoftUni C#\Leson3 - LogicalChecks\liveStream\obj\Debug\liveStream.exe
+C:\SoftUni C#\Leson3 - LogicalChecks\liveStream\obj\Debug\liveStream.pdb

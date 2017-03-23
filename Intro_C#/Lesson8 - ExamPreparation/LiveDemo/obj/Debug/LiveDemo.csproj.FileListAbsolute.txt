@@ -1,0 +1,1 @@
+C:\SoftUni C#\Lesson8 - ExamPreparation\LiveDemo\bin\Debug\LiveDemo.exe.config

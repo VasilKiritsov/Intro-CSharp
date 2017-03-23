@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\areaOfFigures\bin\Debug\areaOfFigures.exe.config
+C:\SoftUni C#\Leson3 - ConditionalStatements\areaOfFigures\bin\Debug\areaOfFigures.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\areaOfFigures\bin\Debug\areaOfFigures.pdb
+C:\SoftUni C#\Leson3 - ConditionalStatements\areaOfFigures\obj\Debug\areaOfFigures.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson3 - ConditionalStatements\areaOfFigures\obj\Debug\areaOfFigures.exe
+C:\SoftUni C#\Leson3 - ConditionalStatements\areaOfFigures\obj\Debug\areaOfFigures.pdb

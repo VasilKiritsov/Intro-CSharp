@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\volleyball\bin\Debug\volleyball.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\volleyball\bin\Debug\volleyball.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\volleyball\bin\Debug\volleyball.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\volleyball\obj\Debug\volleyball.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson4 - Conditional Statements\volleyball\obj\Debug\volleyball.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\volleyball\obj\Debug\volleyball.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SequenceNumberNumberPlusOne\bin\Debug\SequenceNumberNumberPlusOne.exe.config
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SequenceNumberNumberPlusOne\bin\Debug\SequenceNumberNumberPlusOne.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SequenceNumberNumberPlusOne\bin\Debug\SequenceNumberNumberPlusOne.pdb
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SequenceNumberNumberPlusOne\obj\Debug\SequenceNumberNumberPlusOne.exe
+C:\SoftUni C#\Lesson7 - AdvancedLoops\SequenceNumberNumberPlusOne\obj\Debug\SequenceNumberNumberPlusOne.pdb

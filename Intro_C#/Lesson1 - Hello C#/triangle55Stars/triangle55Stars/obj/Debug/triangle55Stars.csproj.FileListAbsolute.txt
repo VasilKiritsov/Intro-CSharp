@@ -1,0 +1,6 @@
+C:\SoftUni C#\triangle55Stars\triangle55Stars\bin\Debug\triangle55Stars.exe.config
+C:\SoftUni C#\triangle55Stars\triangle55Stars\obj\Debug\triangle55Stars.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\triangle55Stars\triangle55Stars\bin\Debug\triangle55Stars.exe
+C:\SoftUni C#\triangle55Stars\triangle55Stars\bin\Debug\triangle55Stars.pdb
+C:\SoftUni C#\triangle55Stars\triangle55Stars\obj\Debug\triangle55Stars.exe
+C:\SoftUni C#\triangle55Stars\triangle55Stars\obj\Debug\triangle55Stars.pdb

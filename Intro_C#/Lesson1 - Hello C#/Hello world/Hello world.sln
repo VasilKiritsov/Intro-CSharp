@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello world", "Hello world\Hello world.csproj", "{3E1B8746-C4AE-4082-9EEE-AE67B609B98F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{B440A3AF-747B-4E82-8363-C74AA171F1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloStamat", "HelloStamat\HelloStamat.csproj", "{7D1835B1-9FB2-4A06-B3C8-8149062BF47B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1B8746-C4AE-4082-9EEE-AE67B609B98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1B8746-C4AE-4082-9EEE-AE67B609B98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1B8746-C4AE-4082-9EEE-AE67B609B98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1B8746-C4AE-4082-9EEE-AE67B609B98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B440A3AF-747B-4E82-8363-C74AA171F1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B440A3AF-747B-4E82-8363-C74AA171F1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B440A3AF-747B-4E82-8363-C74AA171F1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B440A3AF-747B-4E82-8363-C74AA171F1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1835B1-9FB2-4A06-B3C8-8149062BF47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1835B1-9FB2-4A06-B3C8-8149062BF47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1835B1-9FB2-4A06-B3C8-8149062BF47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1835B1-9FB2-4A06-B3C8-8149062BF47B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

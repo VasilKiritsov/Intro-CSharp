@@ -1,0 +1,9 @@
+C:\SoftUni C#\Expression\Expression\bin\Debug\Expression.exe.config
+C:\SoftUni C#\Expression\Expression\bin\Debug\Expression.exe
+C:\SoftUni C#\Expression\Expression\bin\Debug\Expression.pdb
+C:\SoftUni C#\Expression\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Expression\Expression\obj\Debug\Expression.exe
+C:\SoftUni C#\Expression\Expression\obj\Debug\Expression.pdb
+C:\SoftUni C#\Leson1 - Hello C#\Expression\Expression\bin\Debug\Expression.exe.config
+C:\SoftUni C#\Leson1 - Hello C#\Expression\Expression\obj\Debug\Expression.exe
+C:\SoftUni C#\Leson1 - Hello C#\Expression\Expression\obj\Debug\Expression.pdb

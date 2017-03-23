@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\trip\bin\Debug\trip.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\trip\obj\Debug\trip.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson4 - Conditional Statements\trip\bin\Debug\trip.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\trip\bin\Debug\trip.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\trip\obj\Debug\trip.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\trip\obj\Debug\trip.pdb

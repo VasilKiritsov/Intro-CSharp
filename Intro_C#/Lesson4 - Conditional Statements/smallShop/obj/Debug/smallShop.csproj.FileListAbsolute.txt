@@ -1,0 +1,6 @@
+C:\SoftUni C#\Leson4 - Conditional Statements\smallShop\bin\Debug\smallShop.exe.config
+C:\SoftUni C#\Leson4 - Conditional Statements\smallShop\obj\Debug\smallShop.csprojResolveAssemblyReference.cache
+C:\SoftUni C#\Leson4 - Conditional Statements\smallShop\bin\Debug\smallShop.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\smallShop\bin\Debug\smallShop.pdb
+C:\SoftUni C#\Leson4 - Conditional Statements\smallShop\obj\Debug\smallShop.exe
+C:\SoftUni C#\Leson4 - Conditional Statements\smallShop\obj\Debug\smallShop.pdb

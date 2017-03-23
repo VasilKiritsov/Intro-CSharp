@@ -1,0 +1,1 @@
+C:\SoftUni C#\Leson3 - ConditionalStatements\firm\bin\Debug\firm.exe.config
